@@ -6,3 +6,7 @@
 
 现在脚本仅支持带 api 的彩云翻译和谷歌翻译。
 使用者只需将 api 密钥写在 Settings.py 文件内即可。
+
+[彩云 API 申请地址](https://dashboard.caiyunapp.com/user/sign_in/)
+
+[谷歌 API 申请地址](https://cloud.google.com/translate)
